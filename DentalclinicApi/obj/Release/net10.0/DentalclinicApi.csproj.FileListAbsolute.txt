@@ -1,0 +1,9 @@
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.csproj.AssemblyReference.cache
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\rpswa.dswa.cache.json
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.AssemblyInfoInputs.cache
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.AssemblyInfo.cs
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.csproj.CoreCompileInputs.cache
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\k5529\source\repos\DentalclinicApi\DentalclinicApi\obj\Release\net10.0\DentalclinicApi.sourcelink.json

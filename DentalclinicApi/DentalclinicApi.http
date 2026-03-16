@@ -1,0 +1,6 @@
+@DentalclinicApi_HostAddress = http://localhost:5283
+
+GET {{DentalclinicApi_HostAddress}}
+Accept: application/json
+
+###
