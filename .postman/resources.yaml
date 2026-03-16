@@ -1,7 +1,0 @@
-# Use this workspace to collaborate
-workspace:
-  id: 8aad3a72-7326-461d-8cb8-7eec726f60a2
-
-localResources:
-  specs:
-    - ..\DentalclinicApi\obj\Debug\net10.0\EndpointInfo\DentalclinicApi.json
